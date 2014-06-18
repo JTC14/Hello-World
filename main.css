@@ -45,17 +45,21 @@
       padding-bottom:30px;
 }
 
-.left
-{
+.left {
   float: left;
+  padding-top:10px;
+  padding-bottom:10px;
 }
+
+.right{
+  float: right;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
 
 .subsect {
       font-size:20px;
       padding-bottom:30px;
 }
 
-.right
-{
-  float: right;
-}

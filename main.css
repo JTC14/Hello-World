@@ -50,6 +50,11 @@
   float: left;
 }
 
+.subsect {
+      font-size:20px;
+      padding-bottom:30px;
+}
+
 .right
 {
   float: right;

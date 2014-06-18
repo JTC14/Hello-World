@@ -11,9 +11,32 @@
       display: inline;
 }
 
+.phd {
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:20px;
+      padding-bottom:20px;
+}
+
+.Mdeu {
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:20px;
+      padding-bottom:20px;
+}
+
+.mastsci {
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:20px;
+      padding-bottom:20px;
+}
+
 .bachsci {
       padding-left:10px;
       padding-right:10px;
+      padding-top:20px;
+      padding-bottom:20px;
 }
 
 

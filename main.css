@@ -10,3 +10,13 @@
 .bachsci li {
       display: inline;
 }
+
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
